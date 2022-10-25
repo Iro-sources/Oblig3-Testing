@@ -10,5 +10,6 @@ def test_is_divisible_by_400():
     assert checkLeapYear(400) == True
 
 def test_is_divisible_by_200():
-    assert checkLeapYear(200) == False
+    assert checkLeapYear(200) == True
+
 
