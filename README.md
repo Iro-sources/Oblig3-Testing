@@ -14,9 +14,6 @@ to run my tests.
 ### Setting up my continuous integration pipeline
 I created a **circleci** folder and created inside it a configuration file called *config.yml*
 At last I pushed all the files to git and sett up workflow. 
-noweverything is working as it's expected.
+now everything is working as it's expected.
 
 
-<img src="\img\testCapture.JPG" width="400">
-<img src="/img/hiof-logo-nor-black-v1.0.0.jpg" width="400">
-C:\Users\Iro\Desktop
