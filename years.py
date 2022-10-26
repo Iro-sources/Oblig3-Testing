@@ -1,6 +1,6 @@
 #Checking leap year
 
-def checkLeapYear(year):
+def isLeapYear(year):
 
     if year % 4 == 0 and year % 100 != 0:
         return True

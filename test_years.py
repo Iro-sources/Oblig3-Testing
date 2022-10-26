@@ -1,15 +1,14 @@
-from years import checkLeapYear
+from years import  isLeapYear
 
 def test_is_divisible_by_4():
-    assert checkLeapYear(4) == True
+    assert isLeapYear(4)== True
 
 def test_is_divisible_by_100():
-    assert checkLeapYear(100) == False
+    assert isLeapYear(100) == False
 
 def test_is_divisible_by_400():
-    assert checkLeapYear(400) == True
+    assert isLeapYear(400) == True
 
 def test_is_divisible_by_200():
-    assert checkLeapYear(200) == False
-
+    assert isLeapYear(200) == False
 
